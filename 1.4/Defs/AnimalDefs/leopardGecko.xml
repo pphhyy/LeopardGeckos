@@ -95,16 +95,16 @@
       <petness>0.15</petness>
       <lifeExpectancy>12</lifeExpectancy>
       <wildBiomes>
-                <TemperateForest>0.04</TemperateForest>
-                <TemperateSwamp>0.02</TemperateSwamp>
-                <AridShrubland>0.07</AridShrubland>
-                <BorealForest>0.02</BorealForest>
-                <TropicalRainforest>0.02</TropicalRainforest>
-                <TropicalSwamp>0.01</TropicalSwamp>
+                <TemperateForest>0.5</TemperateForest>
+                <TemperateSwamp>0.5</TemperateSwamp>
+                <AridShrubland>0.7</AridShrubland>
+                <BorealForest>0.3</BorealForest>
+                <TropicalRainforest>0.3</TropicalRainforest>
+                <TropicalSwamp>0.3</TropicalSwamp>
                 <Tundra>0.01</Tundra>
                 <ColdBog>0.01</ColdBog>
-                <Desert>0.04</Desert>
-                <ExtremeDesert>0.03</ExtremeDesert>
+                <Desert>0.7</Desert>
+                <ExtremeDesert>0.3</ExtremeDesert>
       </wildBiomes>
       <lifeStageAges>
         <li>
